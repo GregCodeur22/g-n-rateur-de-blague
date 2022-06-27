@@ -1,0 +1,19 @@
+body{
+    background: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.app{
+    background: rgba(206, 80, 206, 0.562);
+    margin: 10rem auto;
+    width: 50%;
+    border-radius: 60px;
+    text-align: center;
+    padding: 2rem;
+    color: white;
+}
+
+.header{
+    font-size: 1rem;
+}
